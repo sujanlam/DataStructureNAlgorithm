@@ -1,0 +1,5 @@
+Bubble Sort:
+===========
+Best case: O(N)
+Average case: O(N2)
+Worst case: O(N2)
