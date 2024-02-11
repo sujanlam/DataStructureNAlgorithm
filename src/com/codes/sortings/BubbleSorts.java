@@ -8,7 +8,7 @@ public class BubbleSorts {
         System.out.println("Before Sorting: ");
         printArr(nums);
         bubbleSorted(nums);
-        System.out.println("\nAfter Sorting: ");
+        System.out.println("\nAfter Sortings: ");
         printArr(nums);
     }
 
