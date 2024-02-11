@@ -32,7 +32,7 @@ public class BubbleSorts {
 
     static void printArr(int[] nums) {
         for (int num: nums) {
-            System.out.print(num+" ");
+            System.out.print(num+"  ");
         }
     }
 }
